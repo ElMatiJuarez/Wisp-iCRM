@@ -1,0 +1,57 @@
+{
+  "pages": [
+    {
+      "id": "Dashboard",
+      "isDefault": true
+    },
+    {
+      "id": "Clients",
+      "isDefault": false
+    },
+    {
+      "id": "Payments",
+      "isDefault": false
+    },
+    {
+      "id": "Record",
+      "isDefault": false
+    },
+    {
+      "id": "Tickets",
+      "isDefault": false
+    },
+    {
+      "id": "Installations",
+      "isDefault": false
+    },
+    {
+      "id": "Reports",
+      "isDefault": false
+    },
+    {
+      "id": "Settings",
+      "isDefault": false
+    },
+    {
+      "id": "Leads",
+      "isDefault": false
+    },
+    {
+      "id": "NuevoCte",
+      "isDefault": false
+    },
+    {
+      "id": "Testing",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#F5D1D1",
+  "icon": "plant",
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "isManualUpdate": false,
+  "deleted": false
+}
